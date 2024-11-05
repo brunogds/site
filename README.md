@@ -1,2 +1,1 @@
-Meu Primeiro GIT.
-Instruções para o usuário.
+Este é o meu site de apresentação pessoal, desenvolvido com HTML e CSS para mostrar um pouco sobre minha trajetória, experiência e projetos na área de Engenharia de Produção. Aqui você poderá conhecer mais sobre minhas qualificações, conferir alguns dos meus trabalhos e encontrar informações para contato.
